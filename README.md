@@ -25,3 +25,8 @@ python export.py
 ```
 
 to create a yomichan compatible dictionary zip file from `entries.jsonl`.
+
+
+### Disclaimer 
+
+Please don't go around sharing copies of the scraped dictionary for copyright reasons. These scripts are intended for individual use.
