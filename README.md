@@ -1,7 +1,7 @@
 ### Outline
 
-A scraper for the Chinese--Japanese dictionary 白水社中国語辞典 hosted by Weblio and found [here](https://cjjc.weblio.jp/category/cgkgj/). Includes a script to convert the scraped data into a [yomichan](https://github.com/FooSoft/yomichan-import) compatible dictionary format for use in yomichan.
-e
+A scraper for the Chinese--Japanese dictionary 白水社中国語辞典 hosted by Weblio and found [here](https://cjjc.weblio.jp/category/cgkgj/). Includes a script to convert the scraped data into a [yomichan](https://github.com/FooSoft/yomichan-import) compatible dictionary format for use in the yomichan browser extension.
+
 ### Requirements
 
 The python libraries needed can be installed with
